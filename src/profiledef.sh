@@ -1,9 +1,9 @@
 #!/usr/bin/env bash
 # shellcheck disable=SC2034
 
-iso_name="exodia-predator"
-iso_label="Exodia-Predator$(date +%Y%m)"
-iso_publisher="Mahmoud Mohamed <https://github.com/mmsaeed509>"
+iso_name="exodia-home"
+iso_label="Exodia-Home$(date +%Y%m)"
+iso_publisher="Mahmoud Mohamed (00xWolf) <https://github.com/mmsaeed509>"
 iso_application="Exodia Live/Rescue CD"
 iso_version="$(date +%Y.%m.%d)"
 install_dir="arch"
