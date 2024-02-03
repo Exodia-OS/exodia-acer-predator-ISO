@@ -21,19 +21,26 @@ Predator (for Acer Predator Laptops) Edition source ISO
     - ##### then, commented these lines
      ![](IMGs/2.png)
 
+
 # building
 
-~~~bash
+```bash
 
 mkdir {work,out} 
 
 sudo mkarchiso -v -w work -o out src 
 
-~~~
+```
 
 # Contributing
 
 - fork 
-- change to dev branch `git checkout dev`
+- create a new branch with `dev-${GITHUB-USERNAME}` name (e.g. `dev-mmsaeed509`)
+  - ```bash
+    git checkout -b dev-mmsaeed509
+    ```
 - commit your changes
+  - ```bash
+    ./git-push.sh -m "your commit msg"
+    ```
 - create a pull request
