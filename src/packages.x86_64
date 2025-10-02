@@ -240,6 +240,7 @@ xdg-user-dirs-gtk
 
 plocate
 gnome-disk-utility
+bat
 
 # Archives #
 bzip2
