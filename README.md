@@ -1,3 +1,5 @@
+Now the project has moved to [**`Exodia-Acer-Predator-Edition/exodia-acer-predator-ISO`**](https://github.com/Exodia-Acer-Predator-Edition/exodia-acer-predator-ISO)
+
 # exodia-predator-ISO
 Predator (for Acer Predator Laptops) Edition source ISO
 
